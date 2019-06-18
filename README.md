@@ -16,3 +16,5 @@ approx
 
 plot(approx[2:100]) # 해단 연산의 배열 인자값을 점으로 표시한다.
 abline(h=dbinom(3,10,0.4),col="red")  #해당 조건에 빨간색의 수평선을 그린다.
+
+
